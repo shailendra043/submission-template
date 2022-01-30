@@ -9,12 +9,12 @@ labels: idea
 
 1. Upload your idea presentation/document within the `idea` folder of this repository. Please don't rename this folder. 
 2. Create this issue. If you have already created it before uploading your files, don't worry! Go ahead and upload it now.
-3. When you are ready to submit, add a new label called `submit-idea` to this Issue. This label won't be existing already and you have to create one with the exact same name as mentioned. Once it has been created, make sure you apply it to the Issue.
+3. When you are ready to submit, add a new label called `submit-idea` to this Issue. If this label doesn't exist already, you have to create one with the exact same name as mentioned. Once it has been created, make sure you apply it to the Issue.
 4. Once the `submit-idea` label has been applied to your Issue, the files within the `idea` folder of this repository will be submitted, and there will be a comment added by the Hackathon Submitter app confirming this. 🎉
 
 ### FAQ
 
-#### How do I create the label called `submit-idea`?
+#### How do I create a label called `submit-idea` if it is not already existing?
 
 1. On this Issue, click on the ⚙️ icon next to 'Labels'
 2. Type `submit-idea` in the **Filter Labels** text box you see

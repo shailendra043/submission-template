@@ -5,7 +5,7 @@ title: "Source Code Submission"
 labels: source
 ---
 
-## Hey there 👋 We are excited to see your source code! Please follow the below steps to submit your idea for the hackathon.
+## Hey there 👋 We are excited to see your source code! Please follow the below steps to submit your source code for the hackathon.
 
 1. Upload/push your source code within the `source` folder of this repository. Please don't rename this folder.
 2. Add instructions on how to run your source code in the `README.MD` file inside the `source` folder. Judges for the hackathon should be able to run the source code with the instructions you have provided. 

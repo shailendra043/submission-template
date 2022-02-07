@@ -1,1 +1,1 @@
-Your idea files are to be added to this folder.
+## Add your idea files to this directory. Please don't rename this directory.

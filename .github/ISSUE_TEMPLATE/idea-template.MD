@@ -1,21 +1,54 @@
 ---
-name: Submit Idea
-about: Use this template for submitting idea for the SBI Innovate hackathon
+name: "💡 Submit Idea"
+about: "Use this template for submitting your idea for the SBI Innovate hackathon"
 title: "Idea Submission"
-labels: idea,submit-idea
+labels: 
+  - idea
+  - submit-idea
 ---
 
-## Hey there 👋 We are excited to see your idea! 
+# Hey there 👋 We are excited to see your idea! 
 
 Before you make your submission using this Issue, please make sure that the Hackathon Submitter GitHub App has been installed and configured for this repository. If you are unsure, check out the [Hackathon Submitter repo](https://github.com/sbi-hackathon/hackathon-submitter).
 
-## To submit your idea for the hackathon, follow the below steps
+## 📝 Submission Steps
 
-1. Upload/commit your idea presentation/document within the `idea` folder of this repository. Please don't rename the `idea` folder or the `source` folder. 
-2. Create and submit this Issue. 
+To submit your idea for the hackathon, follow these steps:
 
-The files within the `idea` folder of this repository will be submitted, and there will be a comment added by the Hackathon Submitter app confirming this. 🎉
+### 1. Prepare Your Idea Document
+- Upload or commit your idea presentation/document within the `idea` folder of this repository.
+- ⚠ **Important:** Do not rename the `idea` folder or the `source` folder.
 
-⚠ **Please don't close this Issue yourself. Wait for the submission to complete and for the Hackathon Submitter app to close the Issue.**
+### 2. Create and Submit This Issue
+- Fill out the necessary details below and submit this issue.
+
+## 📄 Idea Details
+
+### Project Title:
+<!-- Please enter the title of your project -->
+
+### Team Members:
+<!-- List the names of your team members -->
+
+### Description:
+<!-- Provide a brief description of your idea -->
+
+### Goals:
+<!-- List the main goals of your project -->
+
+### Technologies Used:
+<!-- Mention the technologies you plan to use -->
+
+## 🚀 Submission Confirmation
+
+Once you submit this issue:
+- The files within the `idea` folder of this repository will be submitted.
+- The Hackathon Submitter app will add a comment confirming your submission. 🎉
+
+⚠ **Please do not close this Issue yourself.** Wait for the submission to complete and for the Hackathon Submitter app to close the Issue.
 
 For any help or questions, please reach out to TechGig support.
+
+---
+
+Thank you for your submission! We can't wait to see your innovative ideas. Good luck! 🤞
